@@ -1,4 +1,4 @@
-# PUBGLite Trainer
+# PUBGLite Trainer (Old Project)
  A simple PUBG Lite Trainer
 
  Note: This program is meant to be an experimental purposes and is considered as a 3rd party program, im not responsible for any actions you make.
