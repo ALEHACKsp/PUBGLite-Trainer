@@ -3,6 +3,8 @@
 
  Note: This program is meant to be an experimental purposes and is considered as a 3rd party program, im not responsible for any actions you make.
 
+https://www.youtube.com/watch?v=HS2CePt1AQo&t=313s
+
 Bypass instruction
 1. Navigate to PUBG PC LITE installation folder.
 2. Go to Client folder and send PUBGLite.exe to desktop.
